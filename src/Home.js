@@ -113,7 +113,7 @@ export default function Home(props) {
               marginBottom: 20,
             }}
           >
-            My Locations
+            My Locations 
           </Text>
           <FlatList
             horizontal
